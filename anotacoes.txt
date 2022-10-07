@@ -1,0 +1,6 @@
+- Importar e tratar as bases de dados
+- criar 1 arquivo para cada loja
+- Salvar o backup das pastas
+- calcular os indicadores
+- enviar o onepage
+-enviar e-mail para a diretoria
